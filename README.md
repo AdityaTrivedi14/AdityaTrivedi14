@@ -49,12 +49,6 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UCAIB85TBHwsZ2Jwk02UrgYg?view_as=subscriber)
 
 ---
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Aditya Trivedi's GitHub Stats" src="https://https://aditya-trivedi14.vercel.app/api?username=AdityaTrivedi14&show_icons=true&hide_border=true" />
-
-</details>
 
 
 
