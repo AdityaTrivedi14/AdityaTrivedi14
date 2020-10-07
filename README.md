@@ -5,6 +5,7 @@
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
+- 🥅 Goals: Get a Software Developer Job at a Big Tech Company
 - 🥅 2020 Goals: Make a best tutorial for Full Stack Web Development
 
 
