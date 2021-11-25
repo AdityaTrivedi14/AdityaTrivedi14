@@ -1,20 +1,18 @@
 ### Hi there, I'm Aditya - aka [DevelopersCommunity][instagram] 👋
 
 
-## I'm a Engineering_Student, Youtuber, Developer, and Freelancer!!
-
+## ⚡ About Me
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Get a Software Developer Job in any Big Tech Company
 - 🥅 2020 Goals: Make a best tutorial for Full Stack Web Development
 
-
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="adityatrivedi-profile.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Developers Community | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Aditya Trivedi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="developers_community_._ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -34,6 +32,16 @@
 
 <br />
 <br />
+
+
+<img alt="" src="https://github-readme-stats.vercel.app/api?username=AdityaTrivedi14&theme=dark&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
+
+<!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaTrivedi14&theme=dark&show_icons=true&locale=en&layout=compact" alt="AdityaTrivedi14"  /> -->
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaTrivedi14&theme=dark" alt="AdityaTrivedi14" /></p>
+
+<br />
+
+
 
 ---
 
