@@ -1,5 +1,4 @@
-# Hi there, I'm Aditya - aka [DevelopersCommunity][instagram] 👋
-
+# Hi there, I'm Aditya - aka [DevelopersCommunity][instagram] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## ⚡ About Me
 - 📈 I’m currently pursuing BE in IT(Information Technology) from DPCOE, Pune.
@@ -20,7 +19,8 @@
 
 <!-- Github Stats -->
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=AdityaTrivedi14&theme=dark&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaTrivedi14&theme=dark" alt="AdityaTrivedi14" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaTrivedi14&theme=dark&show_icons=true&locale=en&layout=compact" alt="AdityaTrivedi14" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaTrivedi14&theme=dark" alt="AdityaTrivedi14" />
 
 <!-- Links -->
 [website]: https://adityatrivedi-profile.netlify.app/
