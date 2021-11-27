@@ -1,4 +1,4 @@
-# Hi there, I'm Aditya - aka [DevelopersCommunity][instagram] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img align="right" src="https://komarev.com/ghpvc/?username=AdityaTrivedi14" alt="AdityaTrivedi14" />
+# Hi there, I'm Aditya - aka [DevelopersCommunity][instagram] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"><img align="right" src="https://komarev.com/ghpvc/?username=AdityaTrivedi14" alt="AdityaTrivedi14" />
 
 ## ⚡ About Me
 - 📈 I’m currently pursuing BE in IT(Information Technology) from DPCOE, Pune.
