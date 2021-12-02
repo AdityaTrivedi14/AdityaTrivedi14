@@ -6,6 +6,9 @@
 - ❤️ I love writing code, building fun projects and be updated.
 - 💬 I’m looking to collaborate with other developers.
 
+### Connect with me:
+[![Instagram Badge](https://img.shields.io/badge/DevelopersCommunity-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/developers_community_._/)](https://www.instagram.com/developers_community_._/) [![Linkedin Badge](https://img.shields.io/badge/-AdityaTrivedi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-trivedi14/)](https://www.linkedin.com/in/aditya-trivedi14/) [![Gmail Badge](https://img.shields.io/badge/-adityakuldeeptrivedi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityakuldeeptrivedi@gmail.com)](mailto:adityakuldeeptrivedi@gmail.com)
+
 ### Languages and Tools:
 
 <code><img alt="HTML5" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
@@ -21,9 +24,6 @@
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=AdityaTrivedi14&theme=dark&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaTrivedi14&theme=dark&show_icons=true&locale=en&layout=compact" alt="AdityaTrivedi14" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaTrivedi14&theme=dark" alt="AdityaTrivedi14" />
-
-### Connect with me:
-[![Instagram Badge](https://img.shields.io/badge/DevelopersCommunity-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/developers_community_._/)](https://www.instagram.com/developers_community_._/) [![Linkedin Badge](https://img.shields.io/badge/-AdityaTrivedi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-trivedi14/)](https://www.linkedin.com/in/aditya-trivedi14/) [![Gmail Badge](https://img.shields.io/badge/-adityakuldeeptrivedi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityakuldeeptrivedi@gmail.com)](mailto:adityakuldeeptrivedi@gmail.com)
 
 
 <!-- Links -->
