@@ -23,10 +23,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaTrivedi14&theme=dark" alt="AdityaTrivedi14" />
 
 ### Connect with me:
-[<img align="left" alt="adityatrivedi-profile.netlify.app/" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Developers Community | YouTube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Aditya Trivedi | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="developers_community_._ | Instagram" width="26px" src="https://avatars.githubusercontent.com/u/46527469?s=200&v=4" />][instagram]
+[![Instagram Badge](https://img.shields.io/badge/DevelopersCommunity-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/developers_community_._/)](https://www.instagram.com/developers_community_._/) [![Linkedin Badge](https://img.shields.io/badge/-AdityaTrivedi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-trivedi14/)](https://www.linkedin.com/in/aditya-trivedi14/) [![Gmail Badge](https://img.shields.io/badge/-adityakuldeeptrivedi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityakuldeeptrivedi@gmail.com)](mailto:adityakuldeeptrivedi@gmail.com)
+
 
 <!-- Links -->
 [website]: https://adityatrivedi-profile.netlify.app/
@@ -39,7 +37,7 @@
 [reactplaylist]:https://www.youtube.com/channel/UCAIB85TBHwsZ2Jwk02UrgYg?view_as=subscriber
 
 <!-- ### Connect with me:
-[<img align="left" alt="adityatrivedi-profile.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Developers Community | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Aditya Trivedi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="developers_community_._ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+[<img align="left" alt="adityatrivedi-profile.netlify.app/" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Developers Community | YouTube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Aditya Trivedi | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="developers_community_._ | Instagram" width="26px" src="https://avatars.githubusercontent.com/u/46527469?s=200&v=4" />][instagram] -->
