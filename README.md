@@ -7,7 +7,7 @@
 - 💬 I’m looking to collaborate with other developers.
 
 ### Connect with me:
-[![Instagram Badge](https://img.shields.io/badge/DevelopersCommunity-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/developers_community_._/)](https://www.instagram.com/developers_community_._/) [![Linkedin Badge](https://img.shields.io/badge/-AdityaTrivedi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-trivedi14/)](https://www.linkedin.com/in/aditya-trivedi14/) [![Gmail Badge](https://img.shields.io/badge/-adityakuldeeptrivedi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityakuldeeptrivedi@gmail.com)](mailto:adityakuldeeptrivedi@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/DevelopersCommunity-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/developers_community_._/)] [![Twitter Badge](https://img.shields.io/badge/-@codewithAditya-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/codewithAditya)](https://twitter.com/codewithAditya) (https://www.instagram.com/developers_community_._/) [![Linkedin Badge](https://img.shields.io/badge/-AdityaTrivedi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-trivedi14/)](https://www.linkedin.com/in/aditya-trivedi14/) [![Gmail Badge](https://img.shields.io/badge/-adityakuldeeptrivedi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityakuldeeptrivedi@gmail.com)](mailto:adityakuldeeptrivedi@gmail.com)
 
 ### Languages and Tools:
 
