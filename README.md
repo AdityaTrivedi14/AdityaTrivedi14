@@ -7,7 +7,14 @@
 - 💬 I’m looking to collaborate with other developers.
 
 ### Connect with me:
-[![Instagram Badge](https://img.shields.io/badge/DevelopersCommunity-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/developers_community_._/)](https://www.instagram.com/developers_community_._/) [![Twitter Badge](https://img.shields.io/badge/-@codewithAditya-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/codewithAditya)](https://twitter.com/codewithAditya) [![Linkedin Badge](https://img.shields.io/badge/-AdityaTrivedi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-trivedi14/)](https://www.linkedin.com/in/aditya-trivedi14/) [![Gmail Badge](https://img.shields.io/badge/-adityakuldeeptrivedi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityakuldeeptrivedi@gmail.com)](mailto:adityakuldeeptrivedi@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/DevelopersCommunity-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/developers_community_._/)](https://www.instagram.com/developers_community_._/) [![Twitter Badge](https://img.shields.io/badge/-@codewithAditya-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/codewithAditya)](https://twitter.com/codewithAditya)
+
+[![Linkedin Badge](https://img.shields.io/badge/-AdityaTrivedi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-trivedi14/)](https://www.linkedin.com/in/aditya-trivedi14/) [![Gmail Badge](https://img.shields.io/badge/-adityakuldeeptrivedi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityakuldeeptrivedi@gmail.com)](mailto:adityakuldeeptrivedi@gmail.com) 
+
+[![Telegram](https://img.shields.io/badge/Join-Telegram-blue?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJtOS40MTcgMTUuMTgxLS4zOTcgNS41ODRjLjU2OCAwIC44MTQtLjI0NCAxLjEwOS0uNTM3bDIuNjYzLTIuNTQ1IDUuNTE4IDQuMDQxYzEuMDEyLjU2NCAxLjcyNS4yNjcgMS45OTgtLjkzMWwzLjYyMi0xNi45NzIuMDAxLS4wMDFjLjMyMS0xLjQ5Ni0uNTQxLTIuMDgxLTEuNTI3LTEuNzE0bC0yMS4yOSA4LjE1MWMtMS40NTMuNTY0LTEuNDMxIDEuMzc0LS4yNDcgMS43NDFsNS40NDMgMS42OTMgMTIuNjQzLTcuOTExYy41OTUtLjM5NCAxLjEzNi0uMTc2LjY5MS4yMTh6IiBmaWxsPSIjMDM5YmU1Ii8+PC9zdmc+)](https://t.me/freecodeclub)
+
+<br />
+
 
 ### Languages and Tools:
 
