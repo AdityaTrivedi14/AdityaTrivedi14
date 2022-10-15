@@ -1,4 +1,4 @@
-# Hi there, I'm Aditya - aka [DevelopersCommunity][instagram] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px"><img align="right" src="https://komarev.com/ghpvc/?username=AdityaTrivedi14" />
+## Hi there, I'm Aditya - aka [DevelopersCommunity][instagram] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px"><img align="right" src="https://komarev.com/ghpvc/?username=AdityaTrivedi14" />
 
 ![Twitter Cover large size](https://user-images.githubusercontent.com/57658900/195973423-6459cdc9-bcc8-45b6-bbbf-ce0458194fdc.png)
 
