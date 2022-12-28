@@ -14,7 +14,7 @@
 
 <td>
 <p align="center">
-  <p align="center">Instagram | 85K</p>
+  <p align="center">Instagram | 100K+</p>
 
 [![Instagram Badge](https://img.shields.io/badge/DevelopersCommunity-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/developers_community_._/)](https://www.instagram.com/developers_community_._/) 
 </p>
@@ -22,7 +22,7 @@
 
 <td>
 <p align="center">
-  <p align="center">Twitter | 500</p>
+  <p align="center">Twitter | 1K</p>
 
 [![Twitter Badge](https://img.shields.io/badge/-@codewithAditya-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/codewithAditya)](https://twitter.com/codewithAditya)
 </p>
@@ -30,7 +30,7 @@
 
 <td>
 <p align="center">
-  <p align="center">Telegram | 1K</p>
+  <p align="center">Telegram | 3K</p>
 
 [![Telegram](https://img.shields.io/badge/Join-Telegram-blue?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJtOS40MTcgMTUuMTgxLS4zOTcgNS41ODRjLjU2OCAwIC44MTQtLjI0NCAxLjEwOS0uNTM3bDIuNjYzLTIuNTQ1IDUuNTE4IDQuMDQxYzEuMDEyLjU2NCAxLjcyNS4yNjcgMS45OTgtLjkzMWwzLjYyMi0xNi45NzIuMDAxLS4wMDFjLjMyMS0xLjQ5Ni0uNTQxLTIuMDgxLTEuNTI3LTEuNzE0bC0yMS4yOSA4LjE1MWMtMS40NTMuNTY0LTEuNDMxIDEuMzc0LS4yNDcgMS43NDFsNS40NDMgMS42OTMgMTIuNjQzLTcuOTExYy41OTUtLjM5NCAxLjEzNi0uMTc2LjY5MS4yMTh6IiBmaWxsPSIjMDM5YmU1Ii8+PC9zdmc+)](https://t.me/freecodeclub)
 </p>
@@ -85,10 +85,6 @@
 <code><img alt="NodeJS" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img alt="VS Code" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
 
-## Contribution Graph, will be contributing more this year!
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AdityaTrivedi14&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
-
-
 
 <!-- Links -->
 [website]: https://adityatrivedi-profile.netlify.app/
@@ -99,6 +95,11 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLLASG6XOyMpbpzF0XP9viZg7jv02ZhUqd
 [cssplaylist]: https://www.youtube.com/playlist?list=PLLASG6XOyMpa4VoQsGWxPdrCNGiPQSC9s
 [reactplaylist]:https://www.youtube.com/channel/UCAIB85TBHwsZ2Jwk02UrgYg?view_as=subscriber
+
+## Contribution Graph, will be contributing more this year!
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AdityaTrivedi14&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+
 
 <!-- ### Connect with me:
 [<img align="left" alt="adityatrivedi-profile.netlify.app/" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
